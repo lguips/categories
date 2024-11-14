@@ -1,0 +1,42 @@
+{
+  "categories": [
+    {
+      "id": "7713",
+      "title": "teste"
+    },
+    {
+      "id": "ec0e",
+      "title": "teste3"
+    },
+    {
+      "id": "f2f9",
+      "title": "teste4"
+    },
+    {
+      "id": "ab50",
+      "title": "teste5"
+    },
+    {
+      "id": "e725",
+      "name": "teste2222"
+    },
+    {
+      "id": "9074",
+      "data": {
+        "name": "teste2222"
+      }
+    }
+  ],
+  "subcategories": [
+    {
+      "id": "1",
+      "text": "Subcategoria 1",
+      "categoryId": null
+    },
+    {
+      "id": "2",
+      "text": "Subcategoria 2",
+      "categoryId": null
+    }
+  ]
+}
